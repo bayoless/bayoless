@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bayolistic 
-- 👀 I’m interested in content marketing 
-- 🌱 I’m currently learning how the top 100 SaaS companies are doing their content marketing 
-- 💞️ I’m looking to collaborate on content marketing for indie hackers 
+- 👀 I believe every audience is reachable
+- 🌱 I’m building tools to make every audience reachable 
+- 💞️ I’m looking to collaborate on content marketing for internet businesses 
 - 📫 How to reach me (adeoye.a.peters@gmail.com)
-- ⚡ Fun fact: I love sports 
+- ⚡ Fun fact: I let a winner emerge before I stop two fighters 
 
 <!---
 bayoless/bayoless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
